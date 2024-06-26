@@ -1,6 +1,6 @@
 {
   "name": "create-status-action",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GitHub action to create a commit status",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/pbrandone/create-status-action#readme",
   "dependencies": {
     "@actions/core": "^1.1.1",
-    "@actions/github": "^2.1.1"
+    "@actions/github": "^6.0.0"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.20.5",
